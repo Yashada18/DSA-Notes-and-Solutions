@@ -18,17 +18,6 @@ Here, I document my learning of **Data Structures and Algorithms** through detai
 
 ## ✨ Topics Covered
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks and Queues
-- Trees and Binary Trees
-- Graphs
-- Sorting Algorithms
-- Searching Algorithms
-- Recursion and Backtracking
-- Dynamic Programming
-
 _(More topics will be added as I progress!)_
 
 ---
