@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://github.com/AbhishekDoshi26/AbhishekDoshi26/blob/main/assets/dsa.png?raw=true" alt="DSA Banner" />
-</p>
-
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-
-
 
 # 📚 DSA Notes and Solutions
 
